@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 FirebaseCppApp-8_6_2.so filter=lfs diff=lfs merge=lfs -text
+*.apk filter=lfs diff=lfs merge=lfs -text
